@@ -1,4 +1,4 @@
-### Hi there 👋
+### “Any time you think some other language is strange, remember that yours is just as strange, you’re just used to it.”  👋
 
 <!--
 **songxiangfu12345y/songxiangfu12345y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
